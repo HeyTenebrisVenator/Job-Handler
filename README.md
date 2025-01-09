@@ -20,3 +20,7 @@ So, after all this, just execute the command:
 To stop, use:
 
 *sudo systemctl stop job_handler*
+
+To configure a new date, use the command:
+
+sudo make_date
